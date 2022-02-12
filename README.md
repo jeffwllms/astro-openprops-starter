@@ -1,4 +1,4 @@
-# Welcome to [Astro](https://astro.build)
+# Welcome to [Astro](https://astro.build) + [Open-Props](https://open-props.style)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/jeffwllms/astro-props-starter)
 
